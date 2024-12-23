@@ -1,4 +1,4 @@
-# Klasifikasi Jenis Destinasi Wisata Menggunakan Model CNN dan ResNet (Di Bagian master🙏)
+# Klasifikasi Jenis Destinasi Wisata Menggunakan Model CNN dan ResNet (Di Bagian Branch master🙏)
 ## (Abd. Baasithur Rizqu - 202110370311241)
 ## Overview Project
 Proyek ini bertujuan untuk mengembangkan sebuah sistem untuk mengklasifikasikan jenis-jenis destinasi wisata menggunakan model deep learning, khususnya Convolutional Neural Networks (CNN) dan ResNet (Residual Networks). Model klasifikasi ini digunakan untuk mengidentifikasi gambar dari berbagai destinasi wisata, yang membantu dalam mengotomatisasi kategorisasi lokasi berdasarkan fitur visual yang ada pada gambar. Proyek ini memanfaatkan model pre-trained seperti ResNet untuk meningkatkan akurasi dan performa tugas klasifikasi gambar.
